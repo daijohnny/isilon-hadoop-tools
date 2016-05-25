@@ -11,3 +11,6 @@ For documentation on using these scripts, see the following:
 
 -  https://github.com/claudiofahey/hsk-docs
 
+=====================
+I am editing the scripts to support SAP HANA VORA.
+
