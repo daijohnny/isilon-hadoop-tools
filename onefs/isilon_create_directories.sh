@@ -175,7 +175,7 @@ case "$DIST" in
             "/user/yarn#755#yarn#hdfs" \
             "/system/yarn/node-labels#700#yarn#hadoop" \
             "/user/vora#755#vora#vora" \
-            "/user/hanaes#744#hanaes#hdfs \"
+            "/user/hanaes#744#hanaes#hdfs" \
         )
         ;;
     "phd")
